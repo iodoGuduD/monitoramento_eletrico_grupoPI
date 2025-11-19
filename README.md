@@ -4,12 +4,27 @@ MONITOR ELÉTRICO - Grupo π
 Dado a sua natureza, é particularmente útil para um engenheiro eletricista. O programa conta com 5 funções, cada uma
 correspondente a um número que o usuário digita e escolhe.
 
-Primeira função - Registrar Medições:
-Essa função, correspondente ao número 1, registra um circuito, com seu nome e características. As informações registradas
-são: nome, tensão elétrica, corrente elétrica, fator de potência e frequência. O usuário deve digitar as características 
-nessa ordem e separados por ponto e vírgula.
+= Primeira função - Registrar Medições:
+  Essa função, correspondente ao número 1, registra um circuito, com seu nome e características. As informações registradas
+  são: nome, tensão elétrica, corrente elétrica, fator de potência e frequência. O usuário deve digitar as características 
+  nessa ordem e separados por ponto e vírgula.
 
-Segunda função - Salvar Circuitos:
-Essa função, corresponde ao número 2, escreve em  um arquivo os dados de um circuito elétrico. As informações presentes são:
-Nome, tipo, tensão elétrica, corrente elétrica, fator de potência, frequência e data da medição; nessa ordem.
+- Segunda função - Salvar Circuitos:
+  Essa função, correspondente ao número 2, escreve em  um arquivo os dados de um circuito elétrico. As informações presentes são:
+  Nome, tipo, tensão elétrica, corrente elétrica, fator de potência, frequência e data da medição; nessa ordem.
+
+- Terceira função - Gerar Relatório de Não Conformidade:
+  Essa função, correspondente ao número 3, escreve em um arquivo os dados de um circuito que não está em conformidade, ou seja, que
+  está com características anormais. As informações são escritas no arquivo relatorio_nao_conforme.txt
+
+- Quarta função - Resumo Elétrico:
+  Essa função, corresponde ao número 4, exibe no console o circuito com o menor fator de potência, com seu respectivo fator de potência
+  e o número de circuitos que não estão em uma faixa de conjunto de valores.
+
+- Quinta função - Módulo Extra - Balanceamento de Fases:
+  
+
+
+
+  
 
