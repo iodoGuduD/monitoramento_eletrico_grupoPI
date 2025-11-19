@@ -14,8 +14,8 @@ correspondente a um número que o usuário digita e escolhe.
   Nome, tipo, tensão elétrica, corrente elétrica, fator de potência, frequência e data da medição; nessa ordem.
 
 - **Terceira função - Gerar Relatório de Não Conformidade:**
-  Essa função, correspondente ao número 3, escreve em um arquivo os dados de um circuito que não está em conformidade, ou seja, que
-  está com características anormais. As informações são escritas no arquivo relatorio_nao_conforme.txt
+  Essa função, correspondente ao número 3, escreve em um arquivo os dados dos circuitos registrados que não estão em conformidade, ou seja, que
+  estão com características anormais. As informações são escritas no arquivo relatorio_nao_conforme.txt.
 
 - **Quarta função - Resumo Elétrico:**
   Essa função, corresponde ao número 4, exibe no console o circuito com o menor fator de potência, com seu respectivo fator de potência
