@@ -6,8 +6,8 @@ correspondente a um número que o usuário digita e escolhe. Além disso ele uti
 como: variáveis, loops, listas, listas de listas, dicionários e arquivos.
 
 - **Como Executar o programa**:
-- Para executar o programa, basta executar script.py em uma IDE(integrated development enviroment), como o Pycharm, VSCode ou Google
-  Colab.
+  - Para executar o programa, basta executar script.py em uma IDE(integrated development enviroment), como o Pycharm, VSCode ou Google
+    Colab.
 
 - **Funcionalidades**:
   
@@ -33,6 +33,7 @@ como: variáveis, loops, listas, listas de listas, dicionários e arquivos.
     do neutro, que podem causar danos físicos aos dispositivos ligados na rede. Esse módulo visa balancear as N fases de um circuito qualquer. O módulo lê o arquivo
     Alimentador.txt, pede o número de fases do circuito, e as potências e realiza os balanceamentos das N fases presentes nesse circuito, no final o programa avisa
     se o circuito está desbalanceado.
+
 
   
 
