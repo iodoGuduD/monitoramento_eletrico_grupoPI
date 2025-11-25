@@ -2,7 +2,8 @@
 **MONITOR ELÉTRICO - Grupo π**
 - O seguinte programa visa auxiliar o cálculo de fatores elétricos, presentes por exemplo em uma instalação elétrica.
 Dado a sua natureza, é particularmente útil para um engenheiro eletricista. O programa conta com 5 funções, cada uma
-correspondente a um número que o usuário digita e escolhe.
+correspondente a um número que o usuário digita e escolhe. Além disso ele utiliza diversos conceitos de programação em Python
+como: variáveis, loops, listas, listas de listas, dicionários e arquivos.
 
   - **Primeira função - Registrar Medições:**
     Essa função, correspondente ao número 1, registra um circuito, com seu nome e características. As informações registradas
