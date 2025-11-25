@@ -5,6 +5,10 @@ Dado a sua natureza, é particularmente útil para um engenheiro eletricista. O 
 correspondente a um número que o usuário digita e escolhe. Além disso ele utiliza diversos conceitos de programação em Python
 como: variáveis, loops, listas, listas de listas, dicionários e arquivos.
 
+**Como Executar o programa**:
+- Para executar o programa, basta executar script.py em uma IDE(integrated development enviroment), como o Pycharm, VSCode ou Google
+  Colab.
+  
   - **Primeira função - Registrar Medições:**
     Essa função, correspondente ao número 1, registra um circuito, com seu nome e características. As informações registradas
     são: nome, tensão elétrica, corrente elétrica, fator de potência e frequência. O usuário deve digitar as características 
