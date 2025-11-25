@@ -24,7 +24,8 @@ correspondente a um número que o usuário digita e escolhe.
   - **Quinta função - Módulo Extra - Balanceamento de Fases:**
     O balanceamento de fases é essencial para circuitos de corrente alternada, pois quando as fases estão desbalanceadas pode ocorrer sobretensões e carregamento
     do neutro, que podem causar danos físicos aos dispositivos ligados na rede. Esse módulo visa balancear as N fases de um circuito qualquer. O módulo lê o arquivo
-    Alimentador.txt e realiza os balanceamentos das N fases presentes nesse circuito.
+    Alimentador.txt, pede o número de fases do circuito, e as potências e realiza os balanceamentos das N fases presentes nesse circuito, no final o programa avisa
+    se o circuito está desbalanceado.
 
   
 
