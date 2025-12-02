@@ -1,1 +1,1 @@
-nome=alimentador; i1 = 10; i2 = 902; i3=1127; i4 = 90
+nome=alimentador; i1 = 30; i2 = 22; i3=18
