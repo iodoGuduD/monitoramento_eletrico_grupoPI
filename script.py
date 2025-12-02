@@ -151,9 +151,11 @@ def modulo_extra(arquivo_nome="comp_utfpr\monitoramento_eletrico\Alimentador.txt
     #realiza o cálculo do balanceamento de fases
     desvios_p = []
     p_total = 0
+
+    p_total = sum(potenciais)
+    p_med = p_total / len(potencias)
+    
     for pot in potencias:
-      p_total += pot
-      p_med = p_total / len(potencias)
       desvios_p.append(abs(pot - p_med))
 
     p_med_max = max(desvios_p)
@@ -207,4 +209,5 @@ def main():
 
 # chama o menu
 if __name__ == "__main__":
+
      main()
